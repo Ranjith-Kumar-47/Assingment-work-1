@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample app</string>
+    <string name="country">Country</string>
+    <string name="special_character">:</string>
+    <string name="id">ID</string>
+    <string name="probability">Probability</string>
+    <string name="enter_the_user_name">Enter the user name</string>
+    <string name="search">search</string>
+</resources>
